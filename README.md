@@ -13,6 +13,10 @@ com atributos de : rua, bairro, cidade, estado e cep, tambem com metodos privado
 As classes data e cpf seguem mesmo rumo. 
 .
 Já a classe Interface do Usuario. lá onde fica a construção do menu que será apresentado ao usuario. 
+
+<img width="1440" alt="Captura de Tela 2024-11-29 às 23 34 15" src="https://github.com/user-attachments/assets/dbc9957a-d813-47c5-a2ac-5e1141220285">
+
+
 a estrutura dele é simples, existem 5 opcoes, o usuario escolhe uma e segue com o processo.
 obs: na parte de data eu apanhei para usar o parse. 
 tem a construcao do: adicionar, remover, buscar, listar e sair. 
